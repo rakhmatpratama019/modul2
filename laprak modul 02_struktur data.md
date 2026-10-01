@@ -1071,10 +1071,10 @@ int main() {
 
 ### Screenshot Output
 
-![Output Unguided Nomor 3](laprak_soal3(1).png)
-![Output Unguided Nomor 3](laprak_soal3(2).png)
-![Output Unguided Nomor 3](laprak_soal3(3).png)
-![Output Unguided Nomor 3](laprak_soal3(4).png)
+![Output Unguided Nomor 3](laprak2_soal3(1).png)
+![Output Unguided Nomor 3](laprak2_soal3(2).png)
+![Output Unguided Nomor 3](laprak2_soal3(3).png)
+![Output Unguided Nomor 3](laprak2_soal3(4).png)
 
 ### Contoh Output untuk Menu 1
 
