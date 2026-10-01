@@ -798,7 +798,8 @@ Matriks B:
 
 ### Screenshot Output
 
-![Output Unguided Nomor 1](output_unguided_no1.png)
+![Output Unguided Nomor 1](laprak2_soal1.png)
+![Output Unguided Nomor 1](laprak2_soal1(2).png)
 
 ### Output
 
