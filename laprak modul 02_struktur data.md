@@ -921,7 +921,7 @@ c = 8
 
 ### Screenshot Output
 
-![Output Unguided Nomor 2](output_unguided_no2.png)
+![Output Unguided Nomor 2](laprak2_soal2.png)
 
 ### Output
 
