@@ -1,4 +1,4 @@
-# LAPORAN PRAKTIKUM STRUKTUR DATA
+# LAPORAN PRAKTIKUM STRUKTUR DATA MODUL 2
 ## Profil Mahasiswa
 
 | Keterangan | Data |
